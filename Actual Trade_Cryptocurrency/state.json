@@ -1,8 +1,8 @@
 {
-    "mode": "reverse",
-    "T": 41.03546221014982,
+    "mode": "normal",
+    "T": 0,
     "avg_buy": false,
-    "star_buy": true,
+    "star_buy": false,
     "quarter_sell": false,
     "last_buy_time": "",
     "last_candle": 1786377060000,
