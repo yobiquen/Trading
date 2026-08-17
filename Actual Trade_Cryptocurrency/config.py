@@ -8,8 +8,8 @@
 # ===========================================================================
 
 
-API_KEY = "5bb30b70a59e020c83b3f4772984b54648ade254d632b1e6"
-SECRET_KEY = "NDIyYzg5ZTk4OTM3NDljMzBiNzJhMzljMDMwYzgzYzQ4NDcxMjY4ZmIxNDk0OGEzZTQ1NmQ3MzFiOWVkZTUz"
+API_KEY = "c19591ab68e649e5f0d8271aa1ca98ca34b890b2c1bbe075"
+SECRET_KEY = "ZTgzMjFlOWM4ZTI4ZDNlNTkxYTk2ZWU0NDhlNWYwYWY1NzFjYWVjNDk3YzczOGI0OTBiMmMwYjZlYzc2NGQ3"
 
 COIN = "BTC"
 MARKET = "KRW"
