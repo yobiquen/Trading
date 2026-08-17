@@ -21,6 +21,6 @@ MIN_KRW = 5000
 
 SPLIT = 40                 # 총 분할수
 T = 0                      # 현재 분할 진행도
-TARGET_PROFIT = 0.1    # 목표 수익률(%)
+TARGET_PROFIT = 0.15    # 목표 수익률(%)
 TOTAL_MONEY = 400000       # 총 투자금
 ONE_BUY = TOTAL_MONEY / SPLIT
