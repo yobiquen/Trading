@@ -6,5 +6,7 @@
     "quarter_sell": false,
     "last_buy_time": "",
     "last_candle": 1786377060000,
-    "reverse_first_day": true
-    }
+    "reverse_first_day": true,
+    "Slast_period": 1985286,
+    "last_period": 1985483
+}
